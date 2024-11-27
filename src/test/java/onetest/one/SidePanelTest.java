@@ -7,14 +7,12 @@ import org.junit.Test;
 
 	
 
-	
 
-		public class SidePanelTest {
+public class SidePanelTest {
 
-		    @Test
-		    public void ReturnTrueOrFalse(){
-		    	int a =4;
-				AssertTrue(a == 4, "NUmber should be 4");
-		    }
-		    
-		}
+    @Test
+    public void ReturnTrueOrFalse() {
+        int a = 4;
+        assertTrue("Number should be 4", a == 4); // Message first, condition second
+    }
+}
