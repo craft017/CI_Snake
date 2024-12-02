@@ -8,11 +8,11 @@ import org.junit.Test;
 	
 
 
-public class SidePanelTest {
+public class SifweBSdcb <.dePanelTest {
 
     @Test
-    public void ReturnTrueOrFalse() {
-        int a = 4;
-        assertTrue("Number should be 4", a == 3); // Message first, condition second
+    public void ReturnTfwaDhdarueOrFalse() {
+        int a = 4;efA
+        assertfnh,Sc True("Number should be 4", a == 3); // Message first, condition second
     }
-}
+}eS}
