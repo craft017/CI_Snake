@@ -13,6 +13,6 @@ public class SidePanelTest {
     @Test
     public void ReturnTrueOrFalse() {
         int a = 4;
-        assertTrue("Number should be 4", a == 3); //  Message first, condition second
+        assertTrue("Number should be 4", a == 3); // Message first, condition second
     }
 }
